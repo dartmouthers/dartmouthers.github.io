@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Dartmouth Undergraduate Economics Research Conference (DUERC)
 
-You can use the [editor on GitHub](https://github.com/dartmouthers/dartmouthers.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### What is DUERC?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DUERC is a student-organized economics research conference where Dartmouth students present economics research they produced in a culminating experience; in the past, the conference has also included a keynote address and panel discussions with prominent alumni economists.
 
-### Markdown
+### When is DUERC?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DUERC will occur in the Spring term of 2022. A conference schedule will be posted during the Winter term of 2022, and links to recording of the conference presentations, papers, and panels will be posted after the conference.
 
-```markdown
-Syntax highlighted code block
+### About DUERC
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dartmouthers/dartmouthers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+DUERC is organized by students with faculty guidance through the [Dartmouth Economic Research Scholars (DERS)](https://economics.dartmouth.edu/undergraduate/dartmouth-economic-research-scholars-ders) program. Learn more about this past year's inaugural DUERC [here](https://news.dartmouth.edu/news/2021/04/undergraduate-economics-research-conference-set-saturday)!
