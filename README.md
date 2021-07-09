@@ -1,3 +1,5 @@
+## DUERC!
+
 ### What is DUERC?
 
 DUERC is a student-organized economics research conference where Dartmouth students present economics research they produced in a culminating experience; in the past, the conference has also included a keynote address and panel discussions with prominent alumni economists.
