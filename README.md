@@ -6,4 +6,4 @@ DUERC is organized by students with faculty guidance through the [Dartmouth Econ
 
 ### When is DUERC?
 
-DUERC will occur in the Spring term of 2022. A conference schedule will be posted during the Winter term of 2022, and links to recording of the conference presentations, papers, and panels will be posted after the conference.
+DUERC will occur in the Spring term of 2022. A conference schedule will be posted during the Winter term of 2022, and links to a recording of the conference presentations and panels along with the student research papers that were presented will be posted after the conference.
